@@ -129,3 +129,13 @@ How to evolving to microservice:
     - define:
         - responsabilities
         - public interface
+	
+#### how to break our system into microservices:
+- identify loosely coupled components
+- identify database seams ( junção, ligação, acoplamento)
+   - are there certain groups of tables that conceptually belong together?
+       - identify all the places in the code that read and write from those tables. They can be extracted to form a microservice
+- identify bounded contexts
+- sketch your ideas on a whiteboard
+   - run them through real-world use cases and see witch services would be involved
+   - that can help you identify potential problems if too many services are required to colaborate together to achive a single business capability 
