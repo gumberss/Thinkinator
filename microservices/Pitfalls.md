@@ -7,6 +7,6 @@
   - I don't know, and I wont decide it for you, but, If I were that CTO, I wouldn't use microservices, because I have no much developers and the bootstrap of microservice is expensive, CI/CD, monitoring, centralized logs, Eventual consistency, compensate events, all of it is hard to deal with and I do not have so much money and time. So, I would start with a monolith and if the system need business scale because the MVP was viable and the company start getting customers and investor, decompose to microservices :)
 
 #### When you need to create
+- Quote 5 drawbacks of microservices and always remember that you will handle with this for the rest of the product's life
 - Don't turn every noun in your domain into a microservice (It'll make you create anemic CRUD microservices)
-
 
