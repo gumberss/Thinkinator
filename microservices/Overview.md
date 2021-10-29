@@ -122,11 +122,11 @@
    - chatty communications (frequent comunication between one with other)
 
 How to evolving to microservice:
-    - Some people argue to avoid start a new project using microservice
-    - Add new feature as a microservice 
-    - decompose a monolith:
-        - extract microserivce
-    - define:
+- Some people argue to avoid start a new project using microservice
+- Add new feature as a microservice 
+- decompose a monolith:
+	- extract microserivce
+     - define:
         - responsabilities
         - public interface
 	
