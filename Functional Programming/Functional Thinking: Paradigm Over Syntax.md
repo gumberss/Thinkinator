@@ -1,0 +1,5 @@
+- Language syntax is merely details. The tricky part is learning to tkink in a different way.
+- It's not a good ideia trade clarity for performance
+- I'd rather spend my time at a higher lever of abstraction, thinking about ways to solve complex business scenarios
+- In OO -> More complications pile up when you deal with state plus threading
+- Part of transitioning to functional thinking is learning where to apply these higher-level abstraction and stop going immediately for detailed implementations
