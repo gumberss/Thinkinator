@@ -1,0 +1,1 @@
+  - "Functional Thinking" - Neal Ford: https://www.youtube.com/watch?v=7aYS9PcAITQ
