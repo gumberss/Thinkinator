@@ -1,0 +1,1 @@
+- The Hard Parts by Neal Ford: https://www.youtube.com/watch?v=v55IV8IhwKM&ab_channel=Thoughtworks
