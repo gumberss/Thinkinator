@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6dd6e7027f5baa64",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3f3aec8589fef9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Architecture/Microservices/General.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b34d41dd61e96c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d694dd58134d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b22a62dfd20132b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63065005fa808e99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d835492464d9fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "148020d7a3be782a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b4c452fee817b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Architecture/Microservices/General.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "bd3f3aec8589fef9",
+  "lastOpenFiles": [
+    "Architecture/Microservices/General.md",
+    "Architecture/Microservices/Microservices.md",
+    "Architecture/Microservices/Overview.md",
+    "Architecture/Microservices/Hype-answers.md",
+    "Architecture/Microservices/Videos.md",
+    "Architecture/DDD/General.md",
+    "Microservices.md",
+    "Architecture/Microservices/Pitfalls.md",
+    "README.md",
+    "Transaction Paterns.md"
+  ]
+}
